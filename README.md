@@ -12,4 +12,7 @@ reviews_classification_nn.ipynb is built using Python 3.5.2.
 
 	pip3 install -r requirements.txt
 
-NOTE: Keep the pickle file (training dataset) in same folder as this script.
+NOTE 1: Download glove embeddings from here: [glove.6B.50d.txt](https://nlp.stanford.edu/projects/glove/)
+
+NOTE 2: Keep the pickle file (training dataset) in same folder as this script.
+
